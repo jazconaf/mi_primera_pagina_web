@@ -1,0 +1,94 @@
+body {
+    margin: 0 auto;
+    padding: 15px 100px 15px 100px;
+    background-color: #FCE4CA;
+    
+}
+
+.container {
+  
+    background-color: white;
+    padding: 10px 30px 10px 30px;
+    margin-top: -15px;
+   
+}
+
+h1, h1 ~ p {
+    font-family: sans-serif;
+    font-weight: 500;
+}
+
+h1 ~ p {
+    background-color: #C3A492;
+    color: white;
+    text-align: right;
+    padding: 10px 10px 10px 20px;
+    margin: 0px 40px;
+    
+    
+}
+
+header {
+   
+   text-align: center;
+}
+
+.introduction p{
+
+    text-indent: 40px;
+}
+
+section h2 {
+    border-bottom: 2px solid #C3A492; 
+    
+}
+
+.pink-color {
+    color: #C3A492;
+}
+
+img {
+    width: 250px;
+    
+}
+
+figure {
+    text-align: center;
+}
+
+.method p:first-of-type {
+    text-indent: 40px;
+    
+} 
+
+blockquote p {
+
+    background-color: #FCE4CA;
+    padding: 20px;
+    margin-right: 250px;
+    display: inline-block;
+}
+
+
+h3 {
+    text-decoration: underline;
+}
+
+.conclusions ol {
+    list-style: lower-roman;
+}
+
+footer{
+    
+    text-align: center;
+    background-color: #C3A492;
+    color: white;
+    padding: 10px;
+    margin-bottom: -15px;
+    
+}
+
+a {
+    color: white;
+}
+
